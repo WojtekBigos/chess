@@ -1,0 +1,9 @@
+C:\Users\Wojtek\Downloads\szachy oryg\szachy-master\Chess\bin\Debug\Chess.exe.config
+C:\Users\Wojtek\Downloads\szachy oryg\szachy-master\Chess\bin\Debug\Chess.exe
+C:\Users\Wojtek\Downloads\szachy oryg\szachy-master\Chess\bin\Debug\Chess.pdb
+C:\Users\Wojtek\Downloads\szachy oryg\szachy-master\Chess\obj\Debug\Chess.csprojResolveAssemblyReference.cache
+C:\Users\Wojtek\Downloads\szachy oryg\szachy-master\Chess\obj\Debug\Chess.exe
+C:\Users\Wojtek\Downloads\szachy oryg\szachy-master\Chess\obj\Debug\Chess.pdb
+C:\Users\studentwsb\Downloads\CHEES\Chess\bin\Debug\Chess.exe.config
+C:\Users\studentwsb\Downloads\CHEES\Chess\obj\Debug\Chess.exe
+C:\Users\studentwsb\Downloads\CHEES\Chess\obj\Debug\Chess.pdb
